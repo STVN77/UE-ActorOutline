@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ActorOutline.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Steven\Desktop\Games\UE-ActorOutline\ActorOutline\Intermediate\Build\Win64\x64\ActorOutlineEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\Steven\Desktop\Games\UE-ActorOutline\ActorOutline\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActorOutline\ActorOutline.init.gen.cpp.obj"
+"C:\Users\Steven\Desktop\Games\UE-ActorOutline\ActorOutline\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActorOutline\OutlineComponent.gen.cpp.obj"
+"C:\Users\Steven\Desktop\Games\UE-ActorOutline\ActorOutline\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActorOutline\ActorOutline.cpp.obj"
+"C:\Users\Steven\Desktop\Games\UE-ActorOutline\ActorOutline\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActorOutline\OutlineComponent.cpp.obj"
+"C:\Users\Steven\Desktop\Games\UE-ActorOutline\ActorOutline\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActorOutline\Default.rc2.res"
+/OUT:"C:\Users\Steven\Desktop\Games\UE-ActorOutline\ActorOutline\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActorOutline\UnrealEditor-ActorOutline.lib"

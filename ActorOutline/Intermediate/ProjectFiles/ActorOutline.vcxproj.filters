@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ActorOutline.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ActorOutline.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ActorOutlineEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ActorOutline">
+      <UniqueIdentifier>{1F05B411-FD64-36C1-8C42-6D34D904FDF0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ActorOutline\ActorOutline.Build.cs">
+      <Filter>Source\ActorOutline</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ActorOutline\ActorOutline.cpp">
+      <Filter>Source\ActorOutline</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ActorOutline\ActorOutline.h">
+      <Filter>Source\ActorOutline</Filter>
+    </ClInclude>
+    <Filter Include="Source\ActorOutline\Private">
+      <UniqueIdentifier>{32218C88-BDEA-3CD4-9B9C-1D840A1E8A94}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ActorOutline\Private\OutlineComponent.cpp">
+      <Filter>Source\ActorOutline\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\ActorOutline\Public">
+      <UniqueIdentifier>{B401B4AF-CCAF-3BDA-9F18-54EB1AB8BE22}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ActorOutline\Public\OutlineComponent.h">
+      <Filter>Source\ActorOutline\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

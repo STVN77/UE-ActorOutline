@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ActorOutline",
+			"Path": "..\\Source\\ActorOutline.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ActorOutlineEditor",
+			"Path": "..\\Source\\ActorOutlineEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

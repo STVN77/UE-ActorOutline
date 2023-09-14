@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\steven\\desktop\\games\\ue-actoroutline\\unrealproject\\intermediate\\build\\win64\\unrealeditor\\inc\\actoroutline\\uht\\outlinecomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\steven\\desktop\\games\\ue-actoroutline\\unrealproject\\intermediate\\build\\win64\\x64\\actoroutlineeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\steven\\desktop\\games\\ue-actoroutline\\unrealproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\actoroutline\\definitions.actoroutline.h",
+            "c:\\users\\steven\\desktop\\games\\ue-actoroutline\\unrealproject\\source\\actoroutline\\public\\outlinecomponent.h",
+            "c:\\users\\steven\\desktop\\games\\ue-actoroutline\\unrealproject\\intermediate\\build\\win64\\unrealeditor\\inc\\actoroutline\\uht\\outlinecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

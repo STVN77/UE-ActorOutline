@@ -3524,6 +3524,18 @@
 		{
 			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/ActorOutlinePlugin/Binaries/Win64/UnrealEditor-ActorOutlinePlugin.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/ActorOutlinePlugin/Binaries/Win64/UnrealEditor-ActorOutlinePlugin.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/ActorOutlinePlugin/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
 		}
 	],
 	"RuntimeDependencies": [
@@ -24813,6 +24825,10 @@
 		},
 		{
 			"Path": "$(ProjectDir)/ActorOutline.uproject",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/ActorOutlinePlugin/ActorOutlinePlugin.uplugin",
 			"Type": "UFS"
 		}
 	],

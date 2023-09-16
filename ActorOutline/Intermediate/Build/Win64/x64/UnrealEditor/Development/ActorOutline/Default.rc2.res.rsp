@@ -72,7 +72,7 @@
 /DBUILT_FROM_CHANGELIST=27405482
 /DBUILD_VERSION=++UE5+Release-5.3-CL-27405482
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
-/DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
+/DPROJECT_COPYRIGHT_STRING="Copyright 2023, GoldBl4d3. All rights reserved."
 /DPROJECT_PRODUCT_IDENTIFIER=ActorOutline
-/fo "C:\Users\Steven\Desktop\Games\UE-ActorOutline\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActorOutline\Default.rc2.res"
+/fo "C:\Users\Steven\Desktop\Games\UE-ActorOutline\ActorOutline\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActorOutline\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

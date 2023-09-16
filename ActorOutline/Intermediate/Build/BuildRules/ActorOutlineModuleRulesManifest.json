@@ -1,6 +1,7 @@
 {
 	"SourceFiles": [
 		"C:\\Users\\Steven\\Desktop\\Games\\UE-ActorOutline\\ActorOutline\\Source\\ActorOutline\\ActorOutline.Build.cs",
+		"C:\\Users\\Steven\\Desktop\\Games\\UE-ActorOutline\\ActorOutline\\Plugins\\ActorOutlinePlugin\\Source\\ActorOutlinePlugin\\ActorOutlinePlugin.Build.cs",
 		"C:\\Users\\Steven\\Desktop\\Games\\UE-ActorOutline\\ActorOutline\\Source\\ActorOutline.Target.cs",
 		"C:\\Users\\Steven\\Desktop\\Games\\UE-ActorOutline\\ActorOutline\\Source\\ActorOutlineEditor.Target.cs"
 	],

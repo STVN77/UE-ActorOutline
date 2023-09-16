@@ -260,6 +260,9 @@
 /I "C:\Users\Steven\Desktop\Games\UE-ActorOutline\ActorOutline\Intermediate\Build\Win64\UnrealEditor\Inc\ActorOutline\UHT"
 /I "C:\Users\Steven\Desktop\Games\UE-ActorOutline\ActorOutline\Source"
 /I "C:\Users\Steven\Desktop\Games\UE-ActorOutline\ActorOutline\Source\ActorOutline\Public"
+/I "C:\Users\Steven\Desktop\Games\UE-ActorOutline\ActorOutline\Plugins\ActorOutlinePlugin\Intermediate\Build\Win64\UnrealEditor\Inc\ActorOutlinePlugin\UHT"
+/I "C:\Users\Steven\Desktop\Games\UE-ActorOutline\ActorOutline\Plugins\ActorOutlinePlugin\Source"
+/I "C:\Users\Steven\Desktop\Games\UE-ActorOutline\ActorOutline\Plugins\ActorOutlinePlugin\Source\ActorOutlinePlugin\Public"
 /external:W0
 /external:I "ThirdParty\mimalloc\include"
 /external:I "ThirdParty\LibTiff\Source\Win64"

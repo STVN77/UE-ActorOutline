@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ActorOutlinePlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Steven\Desktop\Games\UE-ActorOutline\ActorOutline\Intermediate\Build\Win64\x64\ActorOutlineEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\Steven\Desktop\Games\UE-ActorOutline\ActorOutline\Plugins\ActorOutlinePlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActorOutlinePlugin\Module.ActorOutlinePlugin.cpp.obj"
+"C:\Users\Steven\Desktop\Games\UE-ActorOutline\ActorOutline\Plugins\ActorOutlinePlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActorOutlinePlugin\Default.rc2.res"
+/OUT:"C:\Users\Steven\Desktop\Games\UE-ActorOutline\ActorOutline\Plugins\ActorOutlinePlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActorOutlinePlugin\UnrealEditor-ActorOutlinePlugin.lib"

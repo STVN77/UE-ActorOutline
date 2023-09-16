@@ -27,6 +27,48 @@
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ActorOutlinePlugin">
+      <UniqueIdentifier>{FD2130E1-EE5F-3DB1-B0EB-2BFE745DD8F6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ActorOutlinePlugin\Source">
+      <UniqueIdentifier>{5F047E50-23E0-3A1B-82A5-6DA0794E3E9A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ActorOutlinePlugin\Source\ActorOutlinePlugin">
+      <UniqueIdentifier>{CF541E35-915E-3E17-B025-269DCB615906}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ActorOutlinePlugin\Source\ActorOutlinePlugin\ActorOutlinePlugin.Build.cs">
+      <Filter>Plugins\ActorOutlinePlugin\Source\ActorOutlinePlugin</Filter>
+    </None>
+    <Filter Include="Plugins\ActorOutlinePlugin\Source\ActorOutlinePlugin\Private">
+      <UniqueIdentifier>{F6D2333D-DA2C-32D3-BE04-2D980F71FB60}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\ActorOutlinePlugin\Source\ActorOutlinePlugin\Private\ActorOutlinePlugin.cpp">
+      <Filter>Plugins\ActorOutlinePlugin\Source\ActorOutlinePlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ActorOutlinePlugin\Source\ActorOutlinePlugin\Private\OutlineComponent.cpp">
+      <Filter>Plugins\ActorOutlinePlugin\Source\ActorOutlinePlugin\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\ActorOutlinePlugin\Source\ActorOutlinePlugin\Public">
+      <UniqueIdentifier>{934BD1B9-EE47-3466-8294-9C7611736552}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\ActorOutlinePlugin\Source\ActorOutlinePlugin\Public\ActorOutlinePlugin.h">
+      <Filter>Plugins\ActorOutlinePlugin\Source\ActorOutlinePlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ActorOutlinePlugin\Source\ActorOutlinePlugin\Public\OutlineComponent.h">
+      <Filter>Plugins\ActorOutlinePlugin\Source\ActorOutlinePlugin\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\ActorOutlinePlugin\ActorOutlinePlugin.uplugin">
+      <Filter>Plugins\ActorOutlinePlugin</Filter>
+    </None>
+    <Filter Include="Plugins\ActorOutlinePlugin\Resources">
+      <UniqueIdentifier>{9A2D2C7B-47A2-30D0-A73D-3E649F8E1CC8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ActorOutlinePlugin\Resources\Icon128.png">
+      <Filter>Plugins\ActorOutlinePlugin\Resources</Filter>
+    </None>
     <Filter Include="Source\ActorOutline">
       <UniqueIdentifier>{1F05B411-FD64-36C1-8C42-6D34D904FDF0}</UniqueIdentifier>
     </Filter>
@@ -42,13 +84,13 @@
     <Filter Include="Source\ActorOutline\Private">
       <UniqueIdentifier>{32218C88-BDEA-3CD4-9B9C-1D840A1E8A94}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\ActorOutline\Private\OutlineComponent.cpp">
+    <ClCompile Include="..\..\Source\ActorOutline\Private\OutlineComponentTest.cpp">
       <Filter>Source\ActorOutline\Private</Filter>
     </ClCompile>
     <Filter Include="Source\ActorOutline\Public">
       <UniqueIdentifier>{B401B4AF-CCAF-3BDA-9F18-54EB1AB8BE22}</UniqueIdentifier>
     </Filter>
-    <ClInclude Include="..\..\Source\ActorOutline\Public\OutlineComponent.h">
+    <ClInclude Include="..\..\Source\ActorOutline\Public\OutlineComponentTest.h">
       <Filter>Source\ActorOutline\Public</Filter>
     </ClInclude>
   </ItemGroup>

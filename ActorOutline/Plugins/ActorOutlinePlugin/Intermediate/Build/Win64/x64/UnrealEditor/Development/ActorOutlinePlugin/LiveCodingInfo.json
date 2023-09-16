@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ActorOutlinePlugin.cpp.obj": [
+			"ActorOutlinePlugin.init.gen.cpp.obj",
+			"OutlineComponent.gen.cpp.obj",
+			"ActorOutlinePlugin.cpp.obj",
+			"OutlineComponent.cpp.obj"
+		]
+	}
+}
